@@ -1,6 +1,6 @@
 {
   "name": "tahir-word-counter-project",
-  "version": "1.0.0",
+  "version": "1.01.02",
   "main": "index.js",
   "type": "module",
   "publishConfig": {

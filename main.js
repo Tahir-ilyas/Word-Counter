@@ -1,4 +1,4 @@
-#! usr/bin/env node
+#!/usr/bin/env node
 // import inquirer
 import inquirer from "inquirer";
 // declare a const answer and assighn it to the inqirer.prompt function
